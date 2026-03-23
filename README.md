@@ -3,17 +3,13 @@
 </div>
 
 <div align="center">
-  
-  ```
-  ██╗    ██╗ █████╗ ██╗     ██╗     ███████╗██████╗ 
-  ██║    ██║██╔══██╗██║     ██║     ██╔════╝██╔══██╗
-  ██║ █╗ ██║███████║██║     ██║     █████╗  ██████╔╝
-  ██║███╗██║██╔══██║██║     ██║     ██╔══╝  ██╔══██╗
-  ╚███╔███╔╝██║  ██║███████╗███████╗███████╗██║  ██║
-   ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-  ```
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&center=true&vCenter=true&width=600&height=40&color=4493F8F&lines=Ship+it.+Break+it.+Fix+it.+Learn.;Building+stuff+with+AI+superpowers;Sometimes+boring%2C+sometimes+fun" alt="Typing Animation" />
+  <a href="https://github.com/wa1939">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=36&center=true&vCenter=true&width=500&height=50&color=4493F8&lines=WALEED+ALHAMED" alt="WALEED ALHAMED" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&center=true&vCenter=true&width=600&height=40&color=6E7681&lines=Ship+it.+Break+it.+Fix+it.+Learn.;Building+stuff+with+AI+superpowers" alt="Typing Animation" />
 </div>
 
 ---
