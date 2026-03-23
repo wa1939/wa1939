@@ -102,42 +102,6 @@
 
 ---
 
-### 🎵 Now Playing
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ▶ NOW PLAYING                                               │
-│                                                              │
-│  lofi hip hop radio — beats to relax/study to               │
-│  Source: YouTube Live                                        │
-│                                                              │
-│  [███████████████████████░░░░░░░░░░░░] 2:43 / live          │
-│                                                              │
-│  ◁◁    ▐▐    ▷▷                                             │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Now-4493F8?style=for-the-badge&logo=youtube&logoColor=white" alt="Play now" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=4xDzrJKXOOY">
-    <img src="https://img.shields.io/badge/Ambient-4493F8?style=for-the-badge&logo=youtube&logoColor=white" alt="Ambient" />
-  </a>
-  <a href="https://soundcloud.com/discover/sets/chill">
-    <img src="https://img.shields.io/badge/Chill-4493F8?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Chill" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Closest thing to an in-profile player without GitHub breaking it.</sub>
-</div>
-
----
 
 ### 🛰️ NASA Image of the Day
 
