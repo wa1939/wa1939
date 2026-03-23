@@ -29,9 +29,34 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,python,javascript,react,nextjs,nodejs,prisma,tailwind,git,docker&theme=dark" alt="Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/Vibe_Coder-🤖_AI_First-4493F8?style=for-the-badge&labelColor=1a1a2e" alt="Vibe Coder" />
+</div>
+
+<div align="center">
+  
+  **Engineering mindset + AI superpowers = Ship anything** 🚀
+  
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Claude</b><br/><img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /></td>
+      <td align="center"><b>GPT-5</b><br/><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></td>
+      <td align="center"><b>Gemini</b><br/><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /></td>
+      <td align="center"><b>Codex</b><br/><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Copilot</b><br/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></td>
+      <td align="center"><b>Cursor</b><br/><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /></td>
+      <td align="center"><b>Qwen</b><br/><img src="https://img.shields.io/badge/Alibaba-FF6A00?style=flat-square&logo=alibaba&logoColor=white" /></td>
+      <td align="center"><b>GLM</b><br/><img src="https://img.shields.io/badge/Zhipu_AI-6366f1?style=flat-square" /></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <i>Basics: TypeScript, Python, React, Next.js + AI does the rest</i>
 </div>
 
 ---
