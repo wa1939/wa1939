@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://komarev.com/ghpdu/?username=wa1939&style=flat-square&color=4493F8&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wa1939&style=flat-square&color=4493F8&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  
+
+```text
+██╗    ██╗ █████╗ ██╗     ███████╗███████╗███████╗██████╗
+██║    ██║██╔══██╗██║     ██╔════╝██╔════╝██╔════╝██╔══██╗
+██║ █╗ ██║███████║██║     █████╗  █████╗  █████╗  ██║  ██║
+██║███╗██║██╔══██║██║     ██╔══╝  ██╔══╝  ██╔══╝  ██║  ██║
+╚███╔███╔╝██║  ██║███████╗███████╗███████╗███████╗██████╔╝
+ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝╚═════╝
 ```
-██╗    ██╗ █████╗ ██╗     ██╗     ███████╗ █████╗ 
-██║    ██║██╔══██╗██║     ██║     ██╔════╝██╔══██╗
-██║ █╗ ██║███████║██║     ██║     █████╗  ███████║
-██║███╗██║██╔══██║██║     ██║     ██╔══╝  ██╔══██║
-╚███╔███╔╝██║  ██║███████╗███████╗██║     ██║  ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
-```
-  
+
 </div>
 
 <div align="center">
@@ -98,14 +98,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎧 Spotify
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wa1939&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=4493F8&icon_color=4493F8&text_color=333&bg_color=fff" alt="GitHub Stats" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://img.shields.io/badge/Spotify_player_ready-link_when_token_is_connected-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify player setup" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Snapshot
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wa1939&theme=github" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wa1939&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4493F8&fire=4493F8&currLabel=4493F8" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wa1939&theme=github" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wa1939&theme=github" alt="Most Commit Language" />
 </div>
 
 ---
@@ -113,20 +124,17 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/wa1939/neuravisor-hub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=neuravisor-hub&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="neuravisor-hub" />
-  </a>
-  <a href="https://github.com/wa1939/DepartmentHuB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=DepartmentHuB&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="DepartmentHuB" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/wa1939/Arabic-OCR">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=Arabic-OCR&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="Arabic-OCR" />
   </a>
   <a href="https://github.com/wa1939/obsidian-vault">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=obsidian-vault&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="obsidian-vault" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/wa1939">
+    <img src="https://img.shields.io/badge/More_projects_on_my_profile-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="More projects on GitHub" />
   </a>
 </div>
 
