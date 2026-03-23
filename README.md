@@ -11,8 +11,7 @@
   🎯 **Transformation Consultant** (strategy execution, culture alignment)  
   💼 Culture & EX Lead at **ELM** | Co-founder & CPO at **Neuravisor**  
   🎓 MBA Candidate at **UIUC (Gies College of Business)**  
-  🌱 Building AI tools for organizational change  
-  📍 Saudi Arabia
+  🌱 Building for fun 😁
 
 </div>
 
