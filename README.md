@@ -5,18 +5,18 @@
 <div align="center">
 
 ```text
-██╗    ██╗ █████╗ ██╗     ███████╗███████╗███████╗██████╗
-██║    ██║██╔══██╗██║     ██╔════╝██╔════╝██╔════╝██╔══██╗
-██║ █╗ ██║███████║██║     █████╗  █████╗  █████╗  ██║  ██║
-██║███╗██║██╔══██║██║     ██╔══╝  ██╔══╝  ██╔══╝  ██║  ██║
-╚███╔███╔╝██║  ██║███████╗███████╗███████╗███████╗██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝╚═════╝
+██╗    ██╗ █████╗ ██╗     ███████╗███████╗██████╗
+██║    ██║██╔══██╗██║     ██╔════╝██╔════╝██╔══██╗
+██║ █╗ ██║███████║██║     █████╗  █████╗  ██║  ██║
+██║███╗██║██╔══██║██║     ██╔══╝  ██╔══╝  ██║  ██║
+╚███╔███╔╝██║  ██║███████╗███████╗███████╗██████╔╝
+ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
 ```
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&center=true&vCenter=true&width=600&height=40&color=4493F8&lines=Ship+it.+Break+it.+Fix+it.+Learn.;Building+stuff+with+AI+superpowers" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&center=true&vCenter=true&width=700&height=40&color=4493F8&lines=Ship+it.+Break+it.+Fix+it.+Learn.;Building+stuff+with+AI+superpowers" alt="Typing Animation" />
 </div>
 
 ---
@@ -24,8 +24,8 @@
 <div align="center">
   
   🎮 **This is my playground** — I ship, learn, break things, and build them better  
-  🤖 **Obsessed with AI** — Claude, GPT, Gemini, you name it  
-  🚀 **Full-stack + AI** — From boring utilities to fun experiments  
+  🤖 **Obsessed with AI** — Claude, GPT, Gemini, and whatever works  
+  🚀 **Full-stack + AI** — Useful tools, weird experiments, shipped fast  
   ☕ **Powered by** — Caffeine, curiosity, and too many tabs
   
 </div>
@@ -34,10 +34,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleedalhamed)
-  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://walhamed.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@walhamed.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wa1939)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4493F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleedalhamed)
+  [![Website](https://img.shields.io/badge/Website-4493F8?style=for-the-badge&logo=About.me&logoColor=white)](https://walhamed.com)
+  [![Email](https://img.shields.io/badge/Email-4493F8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@walhamed.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-4493F8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wa1939)
   
 </div>
 
@@ -46,46 +46,40 @@
 ### 🤖 My AI Arsenal
 
 <div align="center">
-  
-  **I don't just use AI. I ship with it.**
-  
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-        <br/><sub><b>My daily driver</b></sub>
+        <img src="https://img.shields.io/badge/Claude-4493F8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+        <br/><sub><b>Daily driver</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/GPT--5-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5" />
+        <img src="https://img.shields.io/badge/GPT--5-4493F8?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5" />
         <br/><sub><b>Heavy lifting</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Gemini-4493F8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
         <br/><sub><b>Research buddy</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Codex-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+        <img src="https://img.shields.io/badge/Codex-4493F8?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
         <br/><sub><b>Code wizard</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Copilot-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Copilot" />
+        <img src="https://img.shields.io/badge/Copilot-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Copilot" />
         <br/><sub><b>Pair programmer</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Cursor-4493F8?style=for-the-badge&logoColor=white" alt="Cursor" />
         <br/><sub><b>AI-first IDE</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen" />
+        <img src="https://img.shields.io/badge/Qwen-4493F8?style=for-the-badge&logoColor=white" alt="Qwen" />
         <br/><sub><b>Vision expert</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/GLM-6366f1?style=for-the-badge" alt="GLM" />
+        <img src="https://img.shields.io/badge/GLM-4493F8?style=for-the-badge&logoColor=white" alt="GLM" />
         <br/><sub><b>Fast & cheap</b></sub>
       </td>
     </tr>
@@ -98,44 +92,41 @@
 
 ---
 
-### 🎧 Spotify
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://img.shields.io/badge/Spotify_player_ready-link_when_token_is_connected-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify player setup" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Snapshot
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wa1939&theme=github" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wa1939&theme=github" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wa1939&theme=github" alt="Most Commit Language" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/wa1939/Arabic-OCR">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=Arabic-OCR&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="Arabic-OCR" />
   </a>
-  <a href="https://github.com/wa1939/obsidian-vault">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=obsidian-vault&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="obsidian-vault" />
+</div>
+
+---
+
+### 🎵 Free Music
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">
+    <img src="https://img.shields.io/badge/Play_Lofi_Radio-4493F8?style=for-the-badge&logo=youtube&logoColor=white" alt="Play free music" />
+  </a>
+  <a href="https://soundcloud.com/discover">
+    <img src="https://img.shields.io/badge/Open_SoundCloud-4493F8?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Open SoundCloud" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/wa1939">
-    <img src="https://img.shields.io/badge/More_projects_on_my_profile-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="More projects on GitHub" />
+  <sub>Free, one click, no broken auth circus.</sub>
+</div>
+
+---
+
+### 🛰️ NASA Image of the Day
+
+<div align="center">
+  <a href="https://apod.nasa.gov/apod/astropix.html">
+    <img src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" alt="NASA Astronomy Picture of the Day" width="85%" />
   </a>
+  <br/>
+  <sub><b>Light Pillars and Orion over Mohe</b> — NASA APOD</sub>
 </div>
 
 ---
@@ -147,10 +138,10 @@
   ```
   ┌─────────────────────────────────────────────────────────┐
   │  🧪  Experimentation > Perfection                       │
-  │  🚢  Shipping > Planning                                 │
-  │  🧠  Learning > Knowing                                  │
-  │  🤖  AI + Human > AI alone or Human alone               │
-  │  💪  Done is better than perfect                         │
+  │  🚢  Shipping > Planning                                │
+  │  🧠  Learning > Knowing                                 │
+  │  🤖  AI + Human > either one alone                      │
+  │  💪  Done is better than perfect                        │
   └─────────────────────────────────────────────────────────┘
   ```
   
@@ -165,7 +156,5 @@
 <div align="center">
   
   **"Building the future, one commit at a time."**
-  
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_🤖_AI-4493F8?style=flat-square" alt="Made with love and AI" />
   
 </div>
