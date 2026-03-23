@@ -91,19 +91,6 @@
   </tr>
 </table>
 
----
-
-### 🎮 Beyond the Code
-
-<div align="center">
-
-| 🕹️ Gaming | 🥊 Sports | 📚 Learning |
-|:---------:|:---------:|:-----------:|
-| Dark Souls, Elden Ring | UFC | Organizational Psychology |
-| Valorant, Counter-Strike | NBA | AI/ML Applications |
-| Sekiro, Bloodborne | Formula 1 | Strategic Management |
-
-</div>
 
 ---
 
