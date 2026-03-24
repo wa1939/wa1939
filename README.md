@@ -94,20 +94,32 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/wa1939/termfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=termfolio&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="termfolio" />
-  </a>
-  <a href="https://github.com/wa1939/wafi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=wafi&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="wafi" />
-  </a>
-  <a href="https://github.com/wa1939/arabic-pdf-suite">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=arabic-pdf-suite&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="arabic-pdf-suite" />
-  </a>
-  <a href="https://github.com/wa1939/Arabic-OCR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=Arabic-OCR&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="Arabic-OCR" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/wa1939/termfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=termfolio&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="termfolio" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wa1939/wafi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=wafi&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="wafi" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wa1939/arabic-pdf-suite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=arabic-pdf-suite&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="arabic-pdf-suite" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wa1939/Arabic-OCR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wa1939&repo=Arabic-OCR&hide_border=true&title_color=4493F8&icon_color=4493F8" alt="Arabic-OCR" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
