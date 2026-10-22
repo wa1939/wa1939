@@ -1,8 +1,10 @@
 # Waleed Alhamed
 
-People Analytics, AI & Research @ ELM · Co-founder & CPO @ Neuravisor · MBA @ UIUC
+This is my play area.
 
-I lead people analytics and applied AI at ELM — building the research, tooling, and platforms that help a large organization understand its workforce. On the side, I build products: work-management software, agent tooling, and Arabic-first apps.
+I build things that solve my own problems — and every once in a while, they end up solving someone else's too. Some builds are small tools, some turn into full products, and some never make it to the finish line. All of that is the point.
+
+Off the playground: People Analytics, AI & Research @ ELM · Co-founder & CPO @ Neuravisor · MBA @ UIUC
 
 ## Currently building
 
