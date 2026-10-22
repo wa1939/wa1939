@@ -29,6 +29,7 @@ Off the playground: People Analytics, AI & Research @ ELM · Co-founder & CPO @ 
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-waleedalhamed?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/waleedalhamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-waleedalghamdi?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/waleedalghamdi/)
+[![X](https://img.shields.io/badge/X-%40walalhamed?logo=x&style=flat-square)](https://x.com/walalhamed)
 [![Website](https://img.shields.io/badge/Website-walhamed.com?logo=aboutdotme&style=flat-square)](https://walhamed.com)
 [![Email](https://img.shields.io/badge/Email-contact%40walhamed.com?logo=gmail&style=flat-square)](mailto:contact@walhamed.com)
